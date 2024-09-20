@@ -1,0 +1,10 @@
+{
+  "tickets": [
+    { "id": 1, "requester": "John Doe", "email": "john.doe@example.com", "subject": "Sql Express", "agent": "Jane Smith","agentEmail":"jane@gmail.com","status": "Open", "lastMessage": "around 3 hours ago", "createdDate": "2024-08-10T10:00:00Z" },
+    { "id": 2, "requester": "Alice Brown", "email": "alice.brown@example.com", "subject": "Oracle", "agent": "Ben Jain","agentEmail":"ben@gmail.com", "status": "InProgress", "lastMessage": "around 4 hours ago", "createdDate": "2024-09-11T09:00:00Z" },
+    { "id": 3, "requester": "Lime Gron", "email": "lime.gron@example.com", "subject": "Dotnet", "agent": "unassigned","agentEmail":"unassigned", "status": "Open", "lastMessage": "around 5 hours ago", "createdDate": "2024-09-12T08:00:00Z" },
+    { "id": 4, "requester": "Sushila", "email": "sushila@example.com", "subject": "React", "agent": "Babil","agentEmail":"babil@gmail.com", "status": "Solved", "lastMessage": "around 8 hours ago", "createdDate": "2024-08-09T11:00:00Z" },
+    { "id": 5, "requester": "Tina", "email": "tina@example.com", "subject": "Pl/sql", "agent": "Akhilesh", "agentEmail":"akki@gmail.com","status": "Closed", "lastMessage": "around 2 hours ago", "createdDate": "2024-09-13T10:00:00Z" }
+  ]
+}
+ 
